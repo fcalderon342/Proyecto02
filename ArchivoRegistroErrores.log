@@ -1,0 +1,309 @@
+2018-02-26 12:27:37:037 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-02-26 12:27:37:037 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-02-26 12:27:37:037 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-860594f6-8872-4610-8b46-336b0e96a10f Settings: {"ignoreUnimportantViews":false}
+2018-02-26 12:27:38:038 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-02-26 12:27:38:038 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: LA HORIENTACION ES: PORTRAIT
+2018-02-26 12:32:16:016 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-02-26 12:32:16:016 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-05 11:45:08:008 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:45:08:008 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-05 11:45:08:008 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-e0b3bd79-a587-4979-ac9c-40eba7b6106a Settings: {"ignoreUnimportantViews":false}
+2018-03-05 11:45:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:45:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-05 11:46:57:057 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:46:57:057 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-05 11:46:57:057 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-973a0283-d5fd-4a84-a260-7ef36ee752ef Settings: {"ignoreUnimportantViews":false}
+2018-03-05 11:47:55:055 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:47:55:055 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-05 11:48:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:48:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-05 11:48:48:048 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-8767bc7d-45d7-46f2-a57b-4ad42d56a30b Settings: {"ignoreUnimportantViews":false}
+2018-03-05 11:49:49:049 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:49:49:049 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-05 11:55:07:007 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:55:07:007 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-05 11:55:07:007 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-1b41f92c-27a4-4e82-a91a-ac430c15ece0 Settings: {"ignoreUnimportantViews":false}
+2018-03-05 11:56:03:003 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 11:56:03:003 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 10:26:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 10:26:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-06 10:26:51:051 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-9a7e73a9-2f1e-492e-ac19-86c22d97bfe6 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 10:28:09:009 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 10:28:09:009 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:13:52:052 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:13:52:052 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-06 11:13:52:052 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-ba946bb3-c3dd-4f60-8adf-77b747f36a4c Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:14:26:026 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:14:26:026 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:16:21:021 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:16:21:021 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-06 11:16:21:021 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-4d5ad42c-40e0-4d6a-8738-dd1c7c3a1af9 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:16:50:050 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:16:50:050 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:25:46:046 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:25:46:046 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-06 11:25:46:046 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-0d5cb43c-d9f7-476b-b7f9-596380b76f12 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:26:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:26:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 06-mar-2018_11_25
+
+2018-03-06 11:26:48:048 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-06 11:26:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:26:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 10:40:36:036 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:40:36:036 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 10:40:36:036 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-99372cc3-edd0-4f1e-9020-50297db07dd2 Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:41:01:001 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 10:41:01:001 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 07-mar-2018_10_40
+
+2018-03-07 10:41:01:001 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-07 10:41:01:001 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:41:01:001 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 10:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 10:45:48:048 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-e23de11e-c94a-4b17-a6f2-1c464d09fd8b Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:46:13:013 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 10:46:13:013 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 07-mar-2018_10_45
+
+2018-03-07 10:46:13:013 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-07 10:46:13:013 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:46:13:013 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 10:48:38:038 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:48:38:038 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 10:48:38:038 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-5e8b4309-23bb-4821-9fb5-aa172e9d0c3f Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:48:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 10:48:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 07-mar-2018_10_48
+
+2018-03-07 10:48:59:059 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-07 10:48:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:48:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 10:52:02:002 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:52:02:002 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 10:52:02:002 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-f02d6205-91d4-4070-86a4-afe58f3e709d Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:52:27:027 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 10:52:27:027 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 07-mar-2018_10_51
+
+2018-03-07 10:52:27:027 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-07 10:52:27:027 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:52:27:027 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 10:54:58:058 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:54:58:058 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 10:54:58:058 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-5bb663bf-eddc-4fd9-a34a-9f5fbed5a022 Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:55:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 10:55:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 07-mar-2018_10_54
+
+2018-03-07 10:55:23:023 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-07 10:55:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:55:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 11:01:31:031 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:01:31:031 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 11:01:31:031 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-02f3ecc1-1c00-4aef-8599-9c9de2d8417d Settings: {"ignoreUnimportantViews":false}
+2018-03-07 11:01:56:056 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 11:01:56:056 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 07-mar-2018_11_01
+
+2018-03-07 11:01:56:056 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE19: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: cans" 
+- html content: "by id or name "respuestaPreguntas""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-07 11:01:56:056 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:01:56:056 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 11:05:41:041 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:05:41:041 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 11:05:41:041 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-b496b4b6-5005-4d24-8a08-405c8ce865a8 Settings: {"ignoreUnimportantViews":false}
+2018-03-07 11:06:06:006 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:06:06:006 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 11:13:22:022 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:13:22:022 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 11:13:22:022 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-83f3bb0f-1680-44b5-bafe-d4207e40b290 Settings: {"ignoreUnimportantViews":false}
+2018-03-07 11:14:11:011 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:14:11:011 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 11:20:12:012 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:20:12:012 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-07 11:20:12:012 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-fdf606bc-6381-4ce9-a095-0b5728cde6c6 Settings: {"ignoreUnimportantViews":false}
+2018-03-07 11:20:56:056 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 11:20:56:056 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-09 10:09:18:018 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-09 10:09:18:018 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----09d8788b0b97fa8c---- Error en Error _BEFORE_N1
+
+2018-03-09 10:09:18:018 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-97f83861-8903-426d-8e88-2785fd3d7630 Settings: {"ignoreUnimportantViews":false}
+2018-03-09 10:09:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-09 10:09:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----09d8788b0b97fa8c---- Error en 09-mar-2018_10_08
+
+2018-03-09 10:09:23:023 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE11: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: button1" 
+- html content: "by id or name "aceptarPermiso1""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI195', ip: '10.2.229.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-09 10:09:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-09 10:09:23:023 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: Nexus 5 termina la ejecucion de sus pruebas sin ir a base de datos<---
+

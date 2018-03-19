@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PruebaInicio" verbose="1" parallel="tests"
+	preserver-order="true">
+	<test name="Nexus 5 - GMALV">
+		<parameter name="UID" value="09d8788b0b97fa8c" />
+		<parameter name="DEVICE" value="Nexus 5" />
+		<parameter name="USER" value="548" />
+		<parameter name="DATA" value="false" />
+		<classes>
+			<class name="ProyectoMovil.Automatizacion.Ejecutar.Pruebas.EjecucionInicioPrueba" />
+		</classes>
+	</test>
+</suite> <!-- PruebaInicio -->
